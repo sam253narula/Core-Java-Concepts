@@ -1,3 +1,5 @@
+package com.basic.core.learn;
+
 import java.util.Scanner;
 class AmstrongNumber{
     public static void main(String [] args){
